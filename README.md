@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/TheCodeLlama/react-3d-demo">
+  <a href="https://github.com/TheCodeLlama/react-3d-model">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,14 +31,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/TheCodeLlama/react-3d-demo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TheCodeLlama/react-3d-model"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/TheCodeLlama/react-3d-demo">View Demo</a>
+    <a href="https://github.com/TheCodeLlama/react-3d-model">View Demo</a>
     &middot;
-    <a href="https://github.com/TheCodeLlama/react-3d-demo/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/TheCodeLlama/react-3d-model/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/TheCodeLlama/react-3d-demo/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/TheCodeLlama/react-3d-model/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/TheCodeLlama/react-3d-demo.git
+   git clone https://github.com/TheCodeLlama/react-3d-model.git
    ```
 3. Install NPM packages
    ```sh
@@ -129,7 +129,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin TheCodeLlama/react-3d-demo
+   git remote set-url origin TheCodeLlama/react-3d-model
    git remote -v # confirm the changes
    ```
 
@@ -156,7 +156,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/TheCodeLlama/react-3d-demo/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TheCodeLlama/react-3d-model/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,8 +180,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/TheCodeLlama/react-3d-demo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TheCodeLlama/react-3d-demo" alt="contrib.rocks image" />
+<a href="https://github.com/TheCodeLlama/react-3d-model/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TheCodeLlama/react-3d-model" alt="contrib.rocks image" />
 </a>
 
 
@@ -200,7 +200,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/TheCodeLlama/react-3d-demo](https://github.com/TheCodeLlama/react-3d-demo)
+Project Link: [https://github.com/TheCodeLlama/react-3d-model](https://github.com/TheCodeLlama/react-3d-model)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,16 +219,16 @@ Project Link: [https://github.com/TheCodeLlama/react-3d-demo](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/TheCodeLlama/react-3d-demo.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheCodeLlama/react-3d-demo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TheCodeLlama/react-3d-demo.svg?style=for-the-badge
-[forks-url]: https://github.com/TheCodeLlama/react-3d-demo/network/members
-[stars-shield]: https://img.shields.io/github/stars/TheCodeLlama/react-3d-demo.svg?style=for-the-badge
-[stars-url]: https://github.com/TheCodeLlama/react-3d-demo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TheCodeLlama/react-3d-demo.svg?style=for-the-badge
-[issues-url]: https://github.com/TheCodeLlama/react-3d-demo/issues
-[license-shield]: https://img.shields.io/github/license/TheCodeLlama/react-3d-demo.svg?style=for-the-badge
-[license-url]: https://github.com/TheCodeLlama/react-3d-demo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TheCodeLlama/react-3d-model.svg?style=for-the-badge
+[contributors-url]: https://github.com/TheCodeLlama/react-3d-model/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TheCodeLlama/react-3d-model.svg?style=for-the-badge
+[forks-url]: https://github.com/TheCodeLlama/react-3d-model/network/members
+[stars-shield]: https://img.shields.io/github/stars/TheCodeLlama/react-3d-model.svg?style=for-the-badge
+[stars-url]: https://github.com/TheCodeLlama/react-3d-model/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TheCodeLlama/react-3d-model.svg?style=for-the-badge
+[issues-url]: https://github.com/TheCodeLlama/react-3d-model/issues
+[license-shield]: https://img.shields.io/github/license/TheCodeLlama/react-3d-model.svg?style=for-the-badge
+[license-url]: https://github.com/TheCodeLlama/react-3d-model/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
